@@ -1,0 +1,58 @@
+.slogan {
+    margin-top: 45px;
+    margin-right: 70px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.hearder {
+    background-color: rgba(124, 51, 255, 0.29);
+    position: fixed;
+    width: 100%;
+    margin-left: 0;
+}
+
+.logo {
+    margin-left: 50px;
+    color: rgba(124, 51, 255, 0.29);
+    margin-top: 24px;
+    border-radius: 5px;
+}
+
+.hearder a {
+    font-family: Freckle Face ;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-right: 25px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type=text], input[type=password],input[type=number],input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+input[type=button],input[type=reset] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+input:hover {
+    opacity: 0.8;
+}
+
+.container {
+    padding: 16px;
+}
